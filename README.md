@@ -1,6 +1,6 @@
 Popa Bianca
 
-Desenarea paralela de curbe contur folosind algoritmul Marching Squares
+Parallelized Marching Squares Algorithm
 
 In main, I extracted the number of threads from argv[3] and declared
 an array of pthread_t and one of struct thread_args. The structure
